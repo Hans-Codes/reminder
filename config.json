@@ -1,0 +1,7 @@
+{
+    "token": "MTI5MTA0MzY5MTA5MTMzMzIwMg.GhzkkT.t4nFffeHsIxfRYEPbOc5Kdu_mtS9GjnnsLJVto",
+    "whitelist": ["750876072689533109", "824187356067790868", "333980974671200257"],
+    "dailyReminderTime": "16:00",
+    "pingIntervals": [5, 1],
+    "morningReminderTime": "08:00"
+}
